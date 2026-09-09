@@ -2,10 +2,9 @@
 
 | file | description |
 |---|---|
-| `main.tex` | Full LaTeX manuscript (all figures embedded). |
+| `paper.tex` | Full LaTeX manuscript (all figures embedded). |
 | `references.bib` | Bibliography (BibTeX). |
-| `main.pdf` | Compiled manuscript. |
-| `cover_letter.tex` / `.pdf` | Submission cover letter. |
+| `paper.pdf` | Compiled manuscript. |
 |  `make_fig6.py` | Regenerates the frequency-range figure from `figures/fig5_data.csv`. |
 | `figures/` | All figure PDFs (vector). |
 
@@ -23,7 +22,6 @@ pdflatex main.tex
 
 | file | appears as | source |
 |---|---|---|
-| `graphical_abstract.pdf` | Graphical abstract | original artwork |
 | `fig1_architecture.pdf` | Figure 1 — network architecture and learned weights | original artwork |
 | `fig2_computational_representation.pdf` | Figure 2 — binary stimulus encoding | original artwork |
 | `fig3_phase_spaces.pdf` | Figure 3 — the twelve Fourier phase spaces | original artwork |
@@ -35,9 +33,3 @@ pdflatex main.tex
 
 Original artwork was supplied as Windows EMF and converted to vector PDF (text preserved
 as embedded fonts, then cropped to content).
-
-## Editorial placeholders
-
-Items still to complete before submission are marked in red with `\ednote{}` in `main.tex`
-and `cover_letter.tex`: author names and affiliations, the repository/data DOIs, Author
-Contributions, and (in the letter) suggested reviewers.
