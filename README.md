@@ -161,7 +161,7 @@ For every hidden unit of every trained network, `analyze_results` reports:
 - **Non-Fourier baselines** (pitch-height ramp, random ceiling).
 - All system-level comparisons made at the **network level** (the unit of replication).
 
-See `data/sample_results/results_report.md` for a reference report from the full run.
+See `data/reference_results/results_report.md` for a reference report from the full run.
 
 ---
 
