@@ -1,0 +1,7 @@
+,system,control,mean_R,sd_R,frac_sig,n
+0,Iranian-17,input_shuffled,0.78,0.138,0.544,1950
+1,Iranian-17,label_shuffled,0.604,0.076,0.0,1950
+2,Iranian-17,none,0.778,0.139,0.542,1950
+3,Western-12,input_shuffled,0.906,0.104,0.797,350
+4,Western-12,label_shuffled,0.653,0.09,0.0,350
+5,Western-12,none,0.889,0.118,0.743,350

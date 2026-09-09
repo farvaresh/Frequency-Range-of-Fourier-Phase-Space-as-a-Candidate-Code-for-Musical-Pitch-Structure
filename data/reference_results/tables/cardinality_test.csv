@@ -1,0 +1,2 @@
+,test,system_a,n_a,mean_a,system_b,n_b,mean_b,mean_diff,U,p
+0,Mann-Whitney U (network-level normalised best freq),Iranian-17,225,0.635,Western-12,50,0.49,0.145,9140.5,4.734e-12

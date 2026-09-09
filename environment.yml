@@ -1,0 +1,18 @@
+# Conda environment for the iranian-anns-fourier pipeline.
+#   conda env create -f environment.yml
+#   conda activate iranian-anns
+name: iranian-anns
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy>=1.21
+  - pandas>=1.3
+  - scipy>=1.7
+  - statsmodels>=0.13
+  - matplotlib>=3.5
+  - seaborn>=0.12
+  - pytest>=7.0
+  - pip
+  - pip:
+      - tabulate>=0.8

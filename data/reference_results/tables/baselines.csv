@@ -1,0 +1,5 @@
+,system,comparison,mean_fourier,mean_ref,wilcoxon_p
+0,Iranian-17,best_R vs pitch_height_r,0.778,0.155,0.0
+1,Iranian-17,best_R vs random_r_p95,0.778,0.478,0.0
+2,Western-12,best_R vs pitch_height_r,0.889,0.239,4.09e-59
+3,Western-12,best_R vs random_r_p95,0.889,0.571,8.12e-59

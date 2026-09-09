@@ -1,0 +1,49 @@
+```toml
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "iranian-anns-fourier"
+version = "1.0.0"
+description = "Fourier phase-space analysis of ANNs trained on Iranian classical music"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { file = "LICENSE" }
+
+authors = [
+    { name = "Yousef Aftabi" },
+    { name = "Hamid Farvaresh" },
+]
+
+keywords = [
+    "music cognition",
+    "artificial neural networks",
+    "discrete Fourier transform",
+    "phase space",
+    "Iranian classical music",
+    "pitch-class representation",
+]
+
+dependencies = [
+    "numpy>=1.21",
+    "pandas>=1.3",
+    "scipy>=1.7",
+    "statsmodels>=0.13",
+    "matplotlib>=3.5",
+    "seaborn>=0.12",
+    "tabulate>=0.8",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]
+
+[project.urls]
+"Repository" = "https://github.com/farvaresh/Frequency-Range-of-Fourier-Phase-Space-as-a-Candidate-Code-for-Musical-Pitch-Structure"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+```

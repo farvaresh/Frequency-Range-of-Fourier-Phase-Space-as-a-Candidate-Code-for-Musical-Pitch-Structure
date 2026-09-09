@@ -1,0 +1,2 @@
+,test,system_a,n_a,mean_a,system_b,n_b,mean_b,mean_diff,U,p
+0,Mann-Whitney U (network-level mean logit R),Iranian-17,225,1.635,Western-12,50,2.814,-1.179,1418.0,1.345e-16

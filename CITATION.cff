@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the paper."
+title: "Frequency Range of Fourier Phase Space as a Candidate Code for Musical Pitch Structure: Evidence from Artificial Neural Network Models of Iranian Classical Music"
+version: 1.0.0
+date-released: 2026-09-08
+license: MIT
+authors:
+  - family-names: "Aftabi"
+    given-names: "Yousef"
+  - family-names: "Farvaresh"
+    given-names: "Hamid"
+preferred-citation:
+  type: article
+  title: "Frequency Range of Fourier Phase Space as a Candidate Code for Musical Pitch Structure: Evidence from Artificial Neural Network Models of Iranian Classical Music"
+  journal: "Scientific Reports"
+  year: 2026
+  doi: ""
+  authors:
+    - family-names: "Aftabi"
+      given-names: "Yousef"
+    - family-names: "Farvaresh"
+      given-names: "Hamid"
