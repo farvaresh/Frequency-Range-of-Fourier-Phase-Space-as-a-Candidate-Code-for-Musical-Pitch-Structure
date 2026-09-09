@@ -12,10 +12,10 @@
 
 ```bash
 cd paper
-pdflatex main.tex
-bibtex main
-pdflatex main.tex
-pdflatex main.tex
+pdflatex paper.tex
+bibtex paper
+pdflatex paper.tex
+pdflatex paper.tex
 ```
 
 ## Figures
