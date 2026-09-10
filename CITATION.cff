@@ -9,12 +9,13 @@ authors:
     given-names: "Yousef"
   - family-names: "Farvaresh"
     given-names: "Hamid"
+doi: "https://doi.org/10.5281/zenodo.22686370"
 preferred-citation:
   type: article
   title: "Frequency Range of Fourier Phase Space as a Candidate Code for Musical Pitch Structure: Evidence from Artificial Neural Network Models of Iranian Classical Music"
-  journal: "Scientific Reports"
+  journal: "submitted to Scientific Reports"
   year: 2026
-  doi: "under review"
+  doi: "https://doi.org/10.5281/zenodo.22686370"
   authors:
     - family-names: "Aftabi"
       given-names: "Yousef"
