@@ -1,10 +1,11 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22686370)](https://doi.org/10.5281/zenodo.22686370)
 # Fourier Phase Space as a Candidate Code for Musical Pitch Structure
 
 Reproducible code and data for the paper:
 
 > **Frequency Range of Fourier Phase Space as a Candidate Code for Musical Pitch
 > Structure: Evidence from Artificial Neural Network Models of Iranian Classical Music.**
-> *Scientific Reports* (under review). DOI: `[INSERT-DOI]`
+> *Scientific Reports* (submitted). DOI: `https://doi.org/10.5281/zenodo.22686370`
 
 Artificial neural networks (ANNs) trained to solve classification problems from Iranian
 classical music develop hidden-unit connection weights that are dominated by a single
